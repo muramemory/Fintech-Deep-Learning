@@ -11,10 +11,14 @@ Here we tested a Model of machine learning to show if it can acurately predict t
 In conclusion, the model that used the closing prices for the data had less loss in the model and therefore more accuracy with its prediction. See plots below.
 
 ### Evaluation
+#### FNG
 ![image_add](Images/FNG_evaluate.jpg)   
+#### Closing
 ![image_add](Images/CLOSING_evaluate.jpg)   
 
 ### Plots
-![image_add](Images/CLOSING_plot.png)
+#### FNG
 ![image_add](Images/FNG_plot.png)
+#### Closing
+![image_add](Images/CLOSING_plot.png)
 
